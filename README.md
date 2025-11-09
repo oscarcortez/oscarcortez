@@ -1,18 +1,19 @@
-- 👋 Hi, I’m @oscarcortez
-- 👀 I’m interested in
+Hi, I’m @oscarcortez
 
-Databases: sql and db administration
+👀 I’m interested in:
+Full Stack Development, backend architecture, and database optimization.
 
-Software development: Backend
-- 🌱 I’m currently learning:
+💻 My main stack:
+JavaScript / TypeScript, Node.js, Express.js, NestJS, React, Next.js, and PostgreSQL.
 
-CSharp
+🌱 I’m currently learning:
+Advanced backend patterns and scalable systems with NestJS and PostgreSQL.
 
-- 💞️ I’m looking to collaborate on:
+💞️ I’m looking to collaborate on:
+Open-source projects or backend-focused systems using Node.js, GraphQL, or relational databases.
 
-SQL
-
-- 📫 How to reach me:
+📫 How to reach me:
+oscarkortez@gmail.com or https://www.linkedin.com/in/oscarkortez/
 
 <!---
 oscarcortez/oscarcortez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
